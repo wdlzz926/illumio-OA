@@ -2,7 +2,7 @@ import csv
 import collections
 import argparse
 
-protocol_mapping = {"1": "icmp", "6": "tcp", "17": "udp"}
+protocol_mapping = {"1": "icmp", "4": "ipv4", "6": "tcp", "17": "udp", "41":"ipv6"}
 untagged = "untagged"
 
 if __name__ == "__main__":

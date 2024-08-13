@@ -1,8 +1,12 @@
 Tag Counts:
 Tag 	Count
-untagged 	2
+sv_p1 	4
+untagged 	1
+sv_p3 	4
 
 Port/Protocol Combination Counts
 Port 	Protocol 	Count
-25 	icmp 	1
+25 	tcp 	2
+23 	tcp 	2
 68 	icmp 	1
+31 	udp 	4
