@@ -1,0 +1,8 @@
+Tag Counts:
+Tag 	Count
+untagged 	2
+
+Port/Protocol Combination Counts
+Port 	Protocol 	Count
+25 	icmp 	1
+68 	icmp 	1
